@@ -2,6 +2,6 @@
 <inst:description xmlns:inst="http://openoffice.org/extensions/update/2006"
                   xmlns:xlink="http://www.w3.org/1999/xlink">
   <inst:identifier value="org.phamxtien.esf" />
-  <inst:version value="0.2.2" />
+  <inst:version value="0.2.3" />
   <inst:update-link xlink:href="https://github.com/phamxtien/esf-client/blob/3b00a6b77eb7756d20cc28f4014dcf4f816bf248/esf.oxt" />
 </inst:description>
