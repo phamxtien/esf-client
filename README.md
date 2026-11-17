@@ -1,2 +1,3 @@
 # esf-client
-ESF LO Extension
+ESF - Efficient Smart Flow
+An Extension of LibreOffice
