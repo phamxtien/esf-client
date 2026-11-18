@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<inst:description xmlns:inst="http://openoffice.org/extensions/update/2006"
-                  xmlns:xlink="http://www.w3.org/1999/xlink">
-  <inst:identifier value="org.phamxtien.esf" />
-  <inst:version value="0.2.3" />
-  <inst:update-link xlink:href="https://github.com/phamxtien/esf-client/raw/bc2b8fb548fbaaa565a678f34d3bc0b20b9a36fa/esf.oxt" />
-</inst:description>
+<description xmlns="http://openoffice.org/extensions/update/2006"
+             xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier value="org.phamxtien.esf" />
+  <version value="0.2.4" />
+  <update-download>
+    <src xlink:href="https://raw.githubusercontent.com/phamxtien/esf-client/main/esf.oxt" />
+  </update-download>
+</description>
